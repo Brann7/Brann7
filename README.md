@@ -11,6 +11,7 @@ with HTML, PHP, CSS and relational databases.
 - 👨🏻‍💻 WEB Developer 🌐
 - 👨🏻‍💻 JAVA Developer
 <br>
+![swift](https://github.com/Brann7/Brann7/assets/86082071/f30fc86e-b600-4a83-9d40-6978af57c4b3)
 
 ## Proyectos *bombitas*
 
@@ -21,7 +22,8 @@ with HTML, PHP, CSS and relational databases.
  
 <h3 align="center">Game "rock, Paper and Scissors"</h3>
 <div align="center">
-<a href="git@github.com:Diplomado-7a-generacion/second-module-final-exercise-rock-paper-scissors-Brann7.git" target="_blank"><img src="[https://github.com/Brann7/Brann7/issues/1#issue-2111218666]" width="400" alt="App on Swift"></a>
+<a href="git@github.com:Diplomado-7a-generacion/second-module-final-exercise-rock-paper-scissors-Brann7.git" target="_blank"><img src="![swift](https://github.com/Brann7/Brann7/assets/86082071/f30fc86e-b600-4a83-9d40-6978af57c4b3)
+" width="400" alt="App on Swift"></a>
 <p>
 <a href="git@github.com:Diplomado-7a-generacion/second-module-final-exercise-rock-paper-scissors-Brann7.git" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
