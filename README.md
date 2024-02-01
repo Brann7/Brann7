@@ -45,10 +45,12 @@ with HTML, PHP, CSS and relational databases.
 </a>
 </p>
 <p> Mobile application developed in Swift language in UIKit, that obtains information about each Pokemon from a JSON file.</p>
-</div>      
+</div>  
 
-</td>
+</td>                                                           
+</table>   
 
+<table> 
 <td width="50%">
  
 <h3 align="center">App "Pokedex" (Front End - Back End)</h3>
@@ -63,8 +65,6 @@ with HTML, PHP, CSS and relational databases.
 </div>      
 
 </td>
-                                                           
-</table>                                                                                 
 </div>
-<br>
+</table> 
 
