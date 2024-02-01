@@ -23,7 +23,7 @@ with HTML, PHP, CSS and relational databases.
  
 <h3 align="center">App "Music and Bands" (Front End)</h3>
 <div align="center">
-<a href="https://github.com/Brann7/diplomado-ios/tree/main/music-bands-Brann7-main" target="_blank"><img src="https://github.com/Brann7/Brann7/assets/86082071/80c79d52-5d65-4105-aad8-b016f9593d77" width="400" alt="App on Swift"></a>
+<a href="https://github.com/Brann7/diplomado-ios/tree/main/music-bands-Brann7-main" target="_blank"><img src="https://github.com/Brann7/Brann7/assets/86082071/ced252ca-3952-49c3-b8e9-edca8a3f995d" width="400" alt="App on Swift"></a>
 <p>
 <a href="https://github.com/Brann7/diplomado-ios/tree/main/music-bands-Brann7-main" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -38,7 +38,7 @@ with HTML, PHP, CSS and relational databases.
  
 <h3 align="center">App "Pokedex" (Front End)</h3>
 <div align="center">
-<a href="https://github.com/Brann7/diplomado-ios/tree/main/pokedex2" target="_blank"><img src="https://github.com/Brann7/Brann7/assets/86082071/f06749cf-f483-43f8-8ca2-1326e4e5649c" width="400" alt="App on Swift"></a>
+<a href="https://github.com/Brann7/diplomado-ios/tree/main/pokedex2" target="_blank"><img src="https://github.com/Brann7/Brann7/assets/86082071/80c79d52-5d65-4105-aad8-b016f9593d77" width="400" alt="App on Swift"></a>
 <p>
 <a href="https://github.com/Brann7/diplomado-ios/tree/main/pokedex2" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
