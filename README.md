@@ -11,7 +11,7 @@ with HTML, PHP, CSS and relational databases.
 - 👨🏻‍💻 WEB Developer 🌐
 - 👨🏻‍💻 JAVA Developer
 <br>
-![swift](https://github.com/Brann7/Brann7/assets/86082071/f30fc86e-b600-4a83-9d40-6978af57c4b3)
+https://github.com/Brann7/Brann7/assets/86082071/f30fc86e-b600-4a83-9d40-6978af57c4b3
 
 ## Proyectos *bombitas*
 
