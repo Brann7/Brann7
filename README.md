@@ -1,3 +1,4 @@
+![swift](https://github.com/Brann7/Brann7/assets/86082071/415ec324-a694-43f2-ac1a-342ea9ed5ea0)
 <div align="center">
  
 <h1 align="center">Hello Guys! I'm Brandon Luna! 👋</h1>
@@ -11,7 +12,7 @@ with HTML, PHP, CSS and relational databases.
 - 👨🏻‍💻 WEB Developer 🌐
 - 👨🏻‍💻 JAVA Developer
 <br>
-https://github.com/Brann7/Brann7/assets/86082071/f30fc86e-b600-4a83-9d40-6978af57c4b3
+
 
 ## Proyectos *bombitas*
 
