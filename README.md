@@ -36,7 +36,7 @@ with HTML, PHP, CSS and relational databases.
 
 <td width="50%">
  
-<h3 align="center">App "Pokedex" (Front End - Back End)</h3>
+<h3 align="center">App "Pokedex"</h3>
 <div align="center">
 <a href="https://github.com/Brann7/diplomado-ios/tree/main/pokedex2" target="_blank"><img src="https://github.com/Brann7/Brann7/assets/86082071/80c79d52-5d65-4105-aad8-b016f9593d77" width="200" alt="App on Swift"></a>
 <p>
@@ -53,15 +53,15 @@ with HTML, PHP, CSS and relational databases.
 <table> 
 <td width="50%">
  
-<h3 align="center">App "Pokedex" (Front End - Back End)</h3>
+<h3 align="center">App "Rick and Morty API" (Front End - Back End)</h3>
 <div align="center">
-<a href="https://github.com/Brann7/diplomado-ios/tree/main/pokedex2" target="_blank"><img src="https://github.com/Brann7/Brann7/assets/86082071/80c79d52-5d65-4105-aad8-b016f9593d77" width="200" alt="App on Swift"></a>
+<a href="https://github.com/Brann7/RickAndMorty_API" target="_blank"><img src="https://github.com/Brann7/Brann7/assets/86082071/28727396-0191-4173-afaf-281dae8e8d92" width="200" alt="App on Swift"></a>
 <p>
-<a href="https://github.com/Brann7/diplomado-ios/tree/main/pokedex2" target="_blank">
+<a href="https://github.com/Brann7/RickAndMorty_API" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p> Mobile application developed in Swift language in UIKit, that obtains information about each Pokemon from a JSON file.</p>
+<p> Mobile application developed in Swift language, that obtains the information of each character from the Rick and Morty API, mapping the information to JSON and displaying the information in a TableView. It has pagination to see other characters.</p>
 </div>      
 
 </td>
