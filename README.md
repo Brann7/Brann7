@@ -44,7 +44,7 @@ with HTML, PHP, CSS and relational databases.
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p> Mobile application developed in Swift language in UIKit, using Storyboard, TableView, Navigation Controller, etc. Mobile application that obtains information about each Pokemon from a JSON file.</p>
+<p> Mobile application developed in Swift language in UIKit, that obtains information about each Pokemon from a JSON file.</p>
 </div>      
 
 </td>
